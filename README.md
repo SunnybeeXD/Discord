@@ -7,4 +7,4 @@ https://discord.gg/acmNEzmsqH (backup)
 # Youtube channel
 [**My channel**](https://www.youtube.com/channel/UCu1ujO5aLooGCK47E05n4XA)
 # Server list
-[**MOVED TO OTHER REP](https://github.com/SunnybeeXD/McCheating)
+[**MOVED TO OTHER REP**](https://github.com/SunnybeeXD/McCheating)
