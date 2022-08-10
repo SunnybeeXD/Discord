@@ -18,3 +18,6 @@ https://discord.gg/acmNEzmsqH (backup)
 
 [**NOVOLINE.WTF**](https://discord.gg/QKAJ2DA7AC)
 
+[**NOVOLINE.WTF**](https://discord.gg/QKAJ2DA7AC)
+
+[**NOVOLINE.LOL (Ex Novoline@Intent)**](https://discord.gg/e8QhzAKT6h)
