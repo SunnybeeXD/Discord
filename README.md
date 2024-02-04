@@ -1,3 +1,3 @@
-ok so if me get term me is sunnybee1 right now!!!
-
-notes: soemone took down my website
+Contact me @ autism@sunnybee.lol
+or 
+https://sunnybee.lol
